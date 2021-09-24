@@ -5,6 +5,11 @@ I'm a Senior Fullstack developer with over 10 years of experience. My expertise 
 ### Latest Creations
 [![Milken Institute](https://milkeninstitute.org/themes/custom/milken/logo.svg)](https://milkeninstitute.org/)
 [Wedgewood Homes](https://www.wedgewoodhomes.com/ Wedgewood Homes)
+<div>
+  <a class="col" href="https://milkeninstitute.org/" target="_blank">
+    <img alt="Milken Institute" src="https://milkeninstitute.org/themes/custom/milken/logo.svg" />
+  </a>
+ </div>
 
 ### Core Specialties
 
