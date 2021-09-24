@@ -4,11 +4,11 @@ I'm a Senior Fullstack developer with over 10 years of experience. My expertise 
 
 ### Latest Creations
 <p>
-  <a class="col Box-row-link" href="https://milkeninstitute.org/" target="_blank">
-    <img alt="Milken Institute" src="https://milkeninstitute.org/themes/custom/milken/logo.svg" />
+  <a class="Box-row-link" href="https://milkeninstitute.org/" target="_blank">
+    <img alt="Milken Institute" class="col-md-4" src="https://milkeninstitute.org/themes/custom/milken/logo.svg" />
   </a>
-  <a class="col Box-row-link" href="https://www.wedgewoodhomes.com/" target="_blank">
-    <img alt="Wedgewood Homes" src="https://www.wedgewoodhomes.com/sites/default/files/sell-your-house-home-fast-cash.png" />
+  <a class="Box-row-link" href="https://www.wedgewoodhomes.com/" target="_blank">
+    <img alt="Wedgewood Homes" class="col-md-4" src="https://www.wedgewoodhomes.com/sites/default/files/sell-your-house-home-fast-cash.png" />
   </a>
  </p>
 
