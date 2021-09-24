@@ -3,7 +3,7 @@
 I'm a Senior Fullstack developer with over 10 years of experience. My expertise is mainly with Drupal and other PHP based frameworks; although I've worked in IT infrastructure and even built some Android Apps.
 
 ### Latest Creations
-![Milken Institute](https://milkeninstitute.org/)
+![Milken Institute](https://milkeninstitute.org/themes/custom/milken/logo.svg)
 ![Wedgewood Homes](https://www.wedgewoodhomes.com/)
 
 ### Core Specialties
@@ -17,4 +17,4 @@ I'm a Senior Fullstack developer with over 10 years of experience. My expertise 
 ![Docker](https://img.shields.io/badge/Docker-55BBFF) ![DockerCompose](https://img.shields.io/badge/Docker--Compose-55DDFF) 
 
 ### Operating Systems
-![Linux RedHat](https://img.shields.io/badge/Linux-RedHat_6.0_--_8.0-red) ![Linux Ubuntu](https://img.shields.io/badge/Linux-Ubuntu_7.10_--_21.04-FFDC00) ![Linux Alpine](https://img.shields.io/badge/Linux-Alpine_3.9_--_3.14-5070A0) ![Windows Server](https://img.shields.io/badge/Windows Server_2003_--_2019-00A4EF)
+![Linux RedHat](https://img.shields.io/badge/Linux-RedHat_6.0_--_8.0-red) ![Linux Ubuntu](https://img.shields.io/badge/Linux-Ubuntu_7.10_--_21.04-FFDC00) ![Linux Alpine](https://img.shields.io/badge/Linux-Alpine_3.9_--_3.14-5070A0) ![Windows Server](https://img.shields.io/badge/Windows_Server_2003_--_2019-00A4EF)
