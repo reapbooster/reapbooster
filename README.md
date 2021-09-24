@@ -3,8 +3,8 @@
 I'm a Senior Fullstack developer with over 10 years of experience. My expertise is mainly with Drupal and other PHP based frameworks; although I've worked in IT infrastructure and even built some Android Apps.
 
 ### Latest Creations
-![Milken Institute](https://milkeninstitute.org/themes/custom/milken/logo.svg)
-![Wedgewood Homes](https://www.wedgewoodhomes.com/)
+[![Milken Institute](https://milkeninstitute.org/themes/custom/milken/logo.svg)](https://milkeninstitute.org/)
+[Wedgewood Homes](https://www.wedgewoodhomes.com/ Wedgewood Homes)
 
 ### Core Specialties
 
