@@ -5,10 +5,10 @@ I'm a Senior Fullstack developer with over 10 years of experience. My expertise 
 ### Latest Creations
 <p>
   <a class="Box-row-link" href="https://milkeninstitute.org/" target="_blank">
-    <img alt="Milken Institute" class="col-md-4" src="https://milkeninstitute.org/themes/custom/milken/logo.svg" style="max-width= 250px;" />
+    <img alt="Milken Institute" class="col-md-4" src="https://img.shields.io/badge/Milken_Institute-0065CC" />
   </a>
   <a class="Box-row-link" href="https://www.wedgewoodhomes.com/" target="_blank">
-    <img alt="Wedgewood Homes" class="col-md-4" src="https://www.wedgewoodhomes.com/sites/default/files/sell-your-house-home-fast-cash.png" style="max-width= 250px;" />
+    <img alt="Wedgewood Homes" class="col-md-4" src="https://img.shields.io/badge/Wedgewood_Homes-E8A446" />
   </a>
  </p>
 
