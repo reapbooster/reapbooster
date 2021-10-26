@@ -17,10 +17,6 @@ I'm a Senior Fullstack developer with over 10 years of experience. My expertise 
 ![Drupal](https://img.shields.io/badge/Drupal-7.0_--_9.1.6-blue?logo=drupal&logoColor=55AAFF&style=plastic) ![PHP](https://img.shields.io/badge/PHP-5.0_--_8.0-8892BF?logo=php&logoColor=white&style=plastic) ![JavaScript](https://img.shields.io/badge/JavaScript-ES3_--_ES6-yellow?logo=javascript&logoColor=yellow&style=plastic) ![MySQL](https://img.shields.io/badge/MySQL-5.1_--_8.0-4479a1?logo=mysql&logoColor=white&style=plastic) ![Shell Scripting](https://img.shields.io/badge/Shell_Script-BASH_4.2_--_5.1-00AA00?logo=gnubash&logoColor=00AA00&style=plastic)
 ![HTML5](https://img.shields.io/badge/HTML%205-red?logo=html5&logoColor=white&style=plastic)
 ![CSS3](https://img.shields.io/badge/CSS%203-00a5f7?logo=css3&logoColor=white&style=plastic)
-![HTML5](https://img.shields.io/badge/HTML%205-red?logo=html5&logoColor=white&style=plastic)
-![HTML5](https://img.shields.io/badge/HTML%205-red?logo=html5&logoColor=white&style=plastic)
-![HTML5](https://img.shields.io/badge/HTML%205-red?logo=html5&logoColor=white&style=plastic)
-![HTML5](https://img.shields.io/badge/HTML%205-red?logo=html5&logoColor=white&style=plastic)
 
 ### Favorite Libraries
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black&style=plastic) ![JS Babel](https://img.shields.io/badge/JS-Babel-EEDA7C?logo=babel&logoColor=white&style=plastic) ![Bootstrap](https://img.shields.io/badge/Bootstrap-3.3_--5.1.1-61428F?logo=bootstrap&logoColor=white&style=plastic)  ![jQuery](https://img.shields.io/badge/jQuery-2.0_--3.5-61428F?logo=jquery&logoColor=7ACEF4&style=plastic) 
