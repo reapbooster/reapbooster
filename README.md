@@ -14,16 +14,16 @@ I'm a Senior Fullstack developer with over 10 years of experience. My expertise 
 
 ### Core Specialties
 
-![Drupal](https://img.shields.io/badge/Drupal-7.0_--_9.1.6-blue) ![PHP](https://img.shields.io/badge/PHP-5.0_--_8.0-8892BF) ![JavaScript](https://img.shields.io/badge/JavaScript-ES3_--_ES6-yellow) ![MySQL](https://img.shields.io/badge/MySQL-5.1_--_8.0-4479a1) ![Shell Scripting](https://img.shields.io/badge/Shell_Script-BASH_4.2_--_5.1-lime)
+![Drupal](https://img.shields.io/badge/Drupal-7.0_--_9.1.6-blue?logo=drupal&logoColor=55AAFF&style=plastic) ![PHP](https://img.shields.io/badge/PHP-5.0_--_8.0-8892BF?logo=php&logoColor=8892BF&style=plastic) ![JavaScript](https://img.shields.io/badge/JavaScript-ES3_--_ES6-yellow?logo=javascript&logoColor=yellow&style=plastic) ![MySQL](https://img.shields.io/badge/MySQL-5.1_--_8.0-4479a1?logo=javascript&logoColor=4479a1&style=plastic) ![Shell Scripting](https://img.shields.io/badge/Shell_Script-BASH_4.2_--_5.1-00AA00?logo=gnubash&logoColor=00AA00&style=plastic)
 
 ### Favorite Libraries
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB) ![JS Babel](https://img.shields.io/badge/JS-Babel-EEDA7C) ![Bootstrap](https://img.shields.io/badge/Bootstrap-3.3_--5.1.1-61428F) 
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black&style=plastic) ![JS Babel](https://img.shields.io/badge/JS-Babel-EEDA7C?logo=babel&logoColor=black&style=plastic) ![Bootstrap](https://img.shields.io/badge/Bootstrap-3.3_--5.1.1-61428F?logo=bootstrap&logoColor=white&style=plastic) 
 
 ### Tools
-![Docker](https://img.shields.io/badge/Docker-55BBFF) ![DockerCompose](https://img.shields.io/badge/Docker--Compose-55DDFF) 
+![Docker](https://img.shields.io/badge/Docker-55BBFF?logo=docker&logoColor=white&style=plastic) ![DockerCompose](https://img.shields.io/badge/Docker--Compose-55DDFF?logo=docker&logoColor=black&style=plastic) 
 
 ### Operating Systems
-![Linux RedHat](https://img.shields.io/badge/Linux-RedHat_6.0_--_8.0-red) ![Linux Ubuntu](https://img.shields.io/badge/Linux-Ubuntu_7.10_--_21.04-FFDC00) ![Linux Alpine](https://img.shields.io/badge/Linux-Alpine_3.9_--_3.14-5070A0) ![Windows Server](https://img.shields.io/badge/Windows_Server_2003_--_2019-00A4EF)
+![Linux RedHat](https://img.shields.io/badge/Linux-RedHat_6.0_--_8.0-red?logo=redhat&logoColor=white&style=plastic) ![Linux Ubuntu](https://img.shields.io/badge/Linux-Ubuntu_7.10_--_21.04-FFDC00?logo=ubuntu&logoColor=white&style=plastic) ![Linux Alpine](https://img.shields.io/badge/Linux-Alpine_3.9_--_3.14-5070A0?logo=alpinelinux&logoColor=white&style=plastic) ![Windows Server](https://img.shields.io/badge/Windows-Server_2003_--_2019-00A4EF?logo=windows&logoColor=white&style=plastic)
 
 ### Also Familiar With
-![JAVA](https://img.shields.io/badge/JAVA-F80000) ![C++](https://img.shields.io/badge/C++-000000) ![PowerShell](https://img.shields.io/badge/PowerShell-012456) ![Assembly](https://img.shields.io/badge/Assembly-FFFFFF) 
+![JAVA](https://img.shields.io/badge/JAVA-F80000?logo=java&logoColor=white&style=plastic) ![C++](https://img.shields.io/badge/C++-000000?logo=c++&logoColor=white&style=plastic) ![PowerShell](https://img.shields.io/badge/PowerShell-012456?logo=powershell&logoColor=white&style=plastic) ![Assembly](https://img.shields.io/badge/Assembly-FFFFFF?logo=assemblyscript&logoColor=black&style=plastic) 
