@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Senior Fullstack developer with over 10 years of experience. My expertise is mainly with Drupal and other PHP based frameworks; although I've worked in IT infrastructure and even built some Android Apps.
+I'm a Senior Fullstack developer with 10+ years of experience specializing in Drupal and PHP frameworks, with a strong background in enterprise IT infrastructure and cybersecurity.
 
 ### Latest Work
 <p>
@@ -32,7 +32,7 @@ I'm a Senior Fullstack developer with over 10 years of experience. My expertise 
 ![CSS3](https://img.shields.io/badge/CSS%203-00a5f7?logo=css3&logoColor=white&style=plastic)
 
 ### Favorite Libraries
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black&style=plastic) ![JS Babel](https://img.shields.io/badge/JS-Babel-EEDA7C?logo=babel&logoColor=white&style=plastic) ![Bootstrap](https://img.shields.io/badge/Bootstrap-3.3_--5.4-61428F?logo=bootstrap&logoColor=white&style=plastic)  ![jQuery](https://img.shields.io/badge/jQuery-2.0_--3.7-61428F?logo=jquery&logoColor=7ACEF4&style=plastic) 
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?logo=react&logoColor=black&style=plastic) ![Node.JS](https://img.shields.io/badge/Node.JS-68A063?logo=node.js&logoColor=white&style=plastic) ![JS Babel](https://img.shields.io/badge/JS-Babel-EEDA7C?logo=babel&logoColor=white&style=plastic) ![Bootstrap](https://img.shields.io/badge/Bootstrap-3.3_--5.4-61428F?logo=bootstrap&logoColor=white&style=plastic)  ![jQuery](https://img.shields.io/badge/jQuery-2.0_--3.7-61428F?logo=jquery&logoColor=7ACEF4&style=plastic) 
 
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-55BBFF?logo=docker&logoColor=white&style=plastic) ![DockerCompose](https://img.shields.io/badge/Docker--Compose-55DDFF?logo=docker&logoColor=black&style=plastic) 
