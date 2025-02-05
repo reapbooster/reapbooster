@@ -5,7 +5,7 @@ I'm a Senior Fullstack developer with over 10 years of experience. My expertise 
 ### Latest Contracts
 <p>
   <a class="Box-row-link" href="https://csulb.edu/" target="_blank">
-    <img alt="CalState University Long Beach" class="col-md-4" src="https://img.shields.io/badge/CalState_Long_Beach-000000" />
+    <img alt="CalState University Long Beach" class="col-md-4" src="https://img.shields.io/badge/CalState_Long_Beach-ECAA00" />
   </a>
   <a class="Box-row-link" href="https://www.wedgewoodhomes.com/" target="_blank">
     <img alt="Wedgewood Homes" class="col-md-4" src="https://img.shields.io/badge/Wedgewood_Homes-E8A446" />
