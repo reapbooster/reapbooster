@@ -2,6 +2,9 @@
 
 I'm a Senior Fullstack developer with 10+ years of experience specializing in Drupal and PHP frameworks, with a strong background in enterprise IT infrastructure and cybersecurity.
 
+### Core Specialties
+**Drupal Migrations** **Drupal Custom Modules** **Custom Enterprise Integrations** **Infrastructure Design** **Security Consulting**
+
 ### Latest Work
 <p>
   <a class="Box-row-link" href="https://sfhsa.org/" target="_blank">
@@ -24,14 +27,6 @@ I'm a Senior Fullstack developer with 10+ years of experience specializing in Dr
     <img alt="Milken Institute" class="col-md-4" src="https://img.shields.io/badge/Milken_Institute-0065CC?style=for-the-badge" />
   </a>
  </p>
-
-### Core Specialties
-#### Drupal Migrations
-#### Drupal Custom Modules
-#### Custom Enterprise Integrations
-#### Infrastructure Design
-#### Custom Solutions
-#### Security Consulting
 
 ### Core Toolbox
 ![Drupal](https://img.shields.io/badge/Drupal-7.0_--_11.1-blue?logo=drupal&logoColor=55AAFF&style=plastic) ![PHP](https://img.shields.io/badge/PHP-5.0_--_8.4-8892BF?logo=php&logoColor=white&style=plastic) ![JavaScript](https://img.shields.io/badge/JavaScript-ES3_--_ES6-yellow?logo=javascript&logoColor=yellow&style=plastic) ![MySQL](https://img.shields.io/badge/MySQL-5.1_--_8.0-4479a1?logo=mysql&logoColor=white&style=plastic) 
