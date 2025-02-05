@@ -7,11 +7,13 @@ I'm a Senior Fullstack developer with over 10 years of experience. My expertise 
   <a class="Box-row-link" href="https://csulb.edu/" target="_blank">
     <img alt="CalState University Long Beach" class="col-md-4" src="https://img.shields.io/badge/CalState_University-Long_Beach-ECAA00?style=for-the-badge&color=ECAA00" />
   </a>
+  <br />
   <a class="Box-row-link" href="https://www.wedgewoodhomes.com/" target="_blank">
-    <img alt="Wedgewood Homes" class="col-md-4" src="https://img.shields.io/badge/Wedgewood_Homes-E8A446" />
+    <img alt="Wedgewood Homes" class="col-md-4" src="https://img.shields.io/badge/Wedgewood_Homes-E8A446?style=for-the-badge" />
   </a>
+  <br />
   <a class="Box-row-link" href="https://milkeninstitute.org/" target="_blank">
-    <img alt="Milken Institute" class="col-md-4" src="https://img.shields.io/badge/Milken_Institute-0065CC" />
+    <img alt="Milken Institute" class="col-md-4" src="https://img.shields.io/badge/Milken_Institute-0065CC?style=for-the-badge" />
   </a>
  </p>
 
