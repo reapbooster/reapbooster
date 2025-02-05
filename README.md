@@ -43,7 +43,7 @@ I'm a Senior Fullstack developer with **10+ years** of experience specializing i
 
 
 ### 🖥️ Operating Systems
-![Linux RedHat](https://img.shields.io/badge/Linux-RedHat_6.0_--_9.5-red?logo=redhat&logoColor=white&style=plastic) ![Linux Ubuntu](https://img.shields.io/badge/Linux-Ubuntu_7.10_--_24.04-FFDC00?logo=ubuntu&logoColor=white&style=plastic) ![Linux Alpine](https://img.shields.io/badge/Linux-Alpine_3.9_--_3.21-5070A0?logo=alpinelinux&logoColor=white&style=plastic) ![Windows Server](https://img.shields.io/badge/Windows-Server_2003_--_2019-00A4EF?logo=windows&logoColor=white&style=plastic)
+![Linux RedHat](https://img.shields.io/badge/Linux-RedHat_6.0_--_9.5-red?logo=redhat&logoColor=white&style=plastic) ![Linux CentOS](https://img.shields.io/badge/Linux-CentOS_6.0_--_Stream--9.5-00A9E0?logo=centos&logoColor=white&style=plastic) ![Linux Ubuntu](https://img.shields.io/badge/Linux-Ubuntu_7.10_--_24.04-FFDC00?logo=ubuntu&logoColor=white&style=plastic) ![Linux Alpine](https://img.shields.io/badge/Linux-Alpine_3.9_--_3.21-5070A0?logo=alpinelinux&logoColor=white&style=plastic) ![Linux Kali](https://img.shields.io/badge/Linux-Kali_2019_--_2024-552A42?logo=kalilinux&logoColor=white&style=plastic) ![Windows Server](https://img.shields.io/badge/Windows-Server_2003_--_2019-00A4EF?logo=windows&logoColor=white&style=plastic)
 
 ### 🧠 Also Familiar With
 ![JAVA](https://img.shields.io/badge/JAVA-F80000?logo=java&logoColor=white&style=plastic) ![C++](https://img.shields.io/badge/C++-000000?logo=cplusplus&logoColor=white&style=plastic) ![PowerShell](https://img.shields.io/badge/PowerShell-012456?logo=powershell&logoColor=white&style=plastic) ![Assembly](https://img.shields.io/badge/Assembly-FFFFFF?logo=assemblyscript&logoColor=black&style=plastic) 
