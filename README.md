@@ -3,7 +3,7 @@
 I'm a Senior Fullstack developer with 10+ years of experience specializing in Drupal and PHP frameworks, with a strong background in enterprise IT infrastructure and cybersecurity.
 
 ### Core Specialties
-**Drupal Migrations** **Drupal Custom Modules** **Custom Enterprise Integrations** **Infrastructure Design** **Security Consulting**
+**Drupal Migrations** / **Drupal Custom Modules** / **Custom Enterprise Integrations** / **Infrastructure Design** / **Security Consulting**
 
 ### Latest Work
 <p>
