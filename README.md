@@ -5,15 +5,19 @@ I'm a Senior Fullstack developer with over 10 years of experience. My expertise 
 ### Latest Work
 <p>
   <a class="Box-row-link" href="https://sfhsa.org/" target="_blank">
-    <img alt="San Francisco Human Services Agency" class="col-md-4" src="https://img.shields.io/badge/San_Francisco-Human_Services_Agency-ECAA00?style=for-the-badge&color=0d7ea2" />
-  </a>
-  <br />
-  <a class="Box-row-link" href="https://csulb.edu/" target="_blank">
-    <img alt="CalState University Long Beach" class="col-md-4" src="https://img.shields.io/badge/CalState_University-Long_Beach-ECAA00?style=for-the-badge&color=ECAA00" />
+    <img alt="San Francisco Human Services Agency" class="col-md-4" src="https://img.shields.io/badge/San_Francisco_Human_Services_Agency-ECAA00?style=for-the-badge&color=0d7ea2" />
   </a>
   <br />
   <a class="Box-row-link" href="https://www.wedgewoodhomes.com/" target="_blank">
     <img alt="Wedgewood Homes" class="col-md-4" src="https://img.shields.io/badge/Wedgewood_Homes-E8A446?style=for-the-badge" />
+  </a>
+  <br />
+  <a class="Box-row-link" href="https://www.qualcomm.com/" target="_blank">
+    <img alt="Qualcomm Intranet" class="col-md-4" src="https://img.shields.io/badge/Qualcomm_Intranet-2a2aea?style=for-the-badge" />
+  </a>
+  <br />
+  <a class="Box-row-link" href="https://csulb.edu/" target="_blank">
+    <img alt="CalState University Long Beach" class="col-md-4" src="https://img.shields.io/badge/CalState_University_Long_Beach-ECAA00?style=for-the-badge&color=ECAA00" />
   </a>
   <br />
   <a class="Box-row-link" href="https://milkeninstitute.org/" target="_blank">
