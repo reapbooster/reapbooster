@@ -2,13 +2,16 @@
 
 I'm a Senior Fullstack developer with over 10 years of experience. My expertise is mainly with Drupal and other PHP based frameworks; although I've worked in IT infrastructure and even built some Android Apps.
 
-### Latest Creations
+### Latest Contracts
 <p>
-  <a class="Box-row-link" href="https://milkeninstitute.org/" target="_blank">
-    <img alt="Milken Institute" class="col-md-4" src="https://img.shields.io/badge/Milken_Institute-0065CC" />
+  <a class="Box-row-link" href="https://csulb.edu/" target="_blank">
+    <img alt="CalState University Long Beach" class="col-md-4" src="https://img.shields.io/badge/CalState_Long_Beach-000000" />
   </a>
   <a class="Box-row-link" href="https://www.wedgewoodhomes.com/" target="_blank">
     <img alt="Wedgewood Homes" class="col-md-4" src="https://img.shields.io/badge/Wedgewood_Homes-E8A446" />
+  </a>
+  <a class="Box-row-link" href="https://milkeninstitute.org/" target="_blank">
+    <img alt="Milken Institute" class="col-md-4" src="https://img.shields.io/badge/Milken_Institute-0065CC" />
   </a>
  </p>
 
