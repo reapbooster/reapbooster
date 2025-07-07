@@ -29,7 +29,7 @@ I'm a Senior Fullstack developer with **10+ years** of experience specializing i
  </p>
 
 ### 🥇 Professional Certifications
-![RedHat RCHSA 2018](https://img.shields.io/badge/RedHat_Linux-RHCSA_2018-red?logo=redhat&color=FF0000&logoColor=white&style=for-the-badge) ![Google UX Design 2024](https://img.shields.io/badge/Google-UX_Design_2024-green?logo=google&color=4285F4&logoColor=EA4335&style=for-the-badge)
+![RedHat RCHSA 2018](https://img.shields.io/badge/RedHat_Linux-RHCSA_2018-red?logo=redhat&color=FF0000&logoColor=white&style=for-the-badge) ![Google UX Design 2024](https://img.shields.io/badge/Google-UX_Design_2024-green?logo=google&color=4285F4&logoColor=EA4335&style=for-the-badge) ![Google Cybersecurity 2025](https://img.shields.io/badge/Google-Cybersecurity_2025-green?logo=google&color=4285F4&logoColor=EA4335&style=for-the-badge)
 
 ### 🧰 Core Toolbox
 ![Drupal](https://img.shields.io/badge/Drupal-7.0_--_11.1-blue?logo=drupal&logoColor=55AAFF&style=plastic) ![PHP](https://img.shields.io/badge/PHP-5.0_--_8.4-8892BF?logo=php&logoColor=white&style=plastic) ![JavaScript](https://img.shields.io/badge/JavaScript-ES3_--_ES6-yellow?logo=javascript&logoColor=yellow&style=plastic) ![MySQL](https://img.shields.io/badge/MySQL-5.1_--_8.0-4479a1?logo=mysql&logoColor=white&style=plastic) 
