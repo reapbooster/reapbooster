@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm a Senior Fullstack developer with **10+ years** of experience, currently working at <a class="Box-row-link" href="https://responsiveweb.io/" target="_blank">ResponsiveWeb.io</a> specializing in **Drupal** and PHP frameworks, with a strong background in **enterprise IT infrastructure and cybersecurity**.
+I'm a Senior IT Professional with **13+ years** of experience, currently working at <a class="Box-row-link" href="https://wedgewood-inc.com/" target="_blank">Wedgewood Inc</a> specializing in highly scalable PHP **Drupal** and NodeJS frameworks, with a strong background in **enterprise IT infrastructure and cybersecurity**.
 
 ### 🚀 Core Specialties
-**Drupal Data Migrations** | **Drupal Custom Modules** | **Custom Enterprise Integrations** | **Infrastructure Security Consulting**
+**Enterprise Drupal Integrations** | **Custom Enterprise Applications** | **Infrastructure Security Consulting** | **Compute Clusters**
 
 ### 💎 Latest Work
 <p>
@@ -27,8 +27,8 @@ I'm a Senior Fullstack developer with **10+ years** of experience, currently wor
     <img alt="Milken Institute" class="col-md-4" src="https://img.shields.io/badge/Milken_Institute-0065CC?style=for-the-badge" />
   </a>
   <br />
-  <a class="Box-row-link" href="https://responsiveweb.io/" target="_blank">
-    <img alt="ResponsiveWeb.io" class="col-md-4" src="https://img.shields.io/badge/Responsive_Web-000000?style=for-the-badge" />
+  <a class="Box-row-link" href="https://lundquist.org/" target="_blank">
+    <img alt="Lundquist Institute" class="col-md-4" src="https://img.shields.io/badge/Lundquist_Institute-000000?style=for-the-badge" />
   </a>
  </p>
 
